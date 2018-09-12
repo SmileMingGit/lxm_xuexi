@@ -2,3 +2,8 @@
 #coding=utf-8
 
 print ("Life is short, you need Python !")
+a=2
+b=3
+
+c = a + b
+print("The value of c is  ", c)
