@@ -1,3 +1,4 @@
+$ head -2 src/string.py
 #!/usr/bin/python3
 
 var1 = 'Hello World!'
